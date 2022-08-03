@@ -2,7 +2,7 @@
 
 📌 Always looking to study and evolve every day, currently, I'm focused on the frontend area using HTML5, CSS3, JavaScript and React. #neverStopLearning
 
-👀 See more at:
-https://github.com/junior-slv
-https://vercel.com/junior-slv
+👀 See more at: <br>
+https://github.com/junior-slv <br>
+https://vercel.com/junior-slv <br>
 https://app.rocketseat.com.br/me/junior-slv
