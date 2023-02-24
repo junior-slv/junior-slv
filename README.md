@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 
 🔭 I’m currently studying software engineering at Philadelphia University of Londrina<br>🌱 I’m currently learning Front-end focused in JavaScript and ReactJS<br>⚡ Fun fact: I always program listening to music
 
 
