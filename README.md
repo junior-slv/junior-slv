@@ -1,5 +1,5 @@
 # 💫 About Me: 
-🔭 I’m currently studying software engineering at Philadelphia University of Londrina<br>🌱 I’m currently learning Front-end focused in JavaScript and ReactJS<br>⚡ Fun fact: I always program listening to music
+🔭 Meet Junior, a skilled and detail-oriented frontend developer with a passion for creating beautiful and responsive user interfaces. With a solid understanding of HTML, CSS, and JavaScript, they specialize in bringing designs to life and delivering seamless user experiences. I'm constantly staying up-to-date with the latest industry trends and best practices to ensure they are always delivering the highest quality work. When not crafting code, you can find me exploring new technologies or experimenting with design. Check my impressive portfolio on Github to see mine work!
 
 
 ## 🌐 Socials:
