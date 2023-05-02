@@ -1,6 +1,7 @@
-# 💫 About Me: 
-🔭 Meet Junior, a skilled and detail-oriented frontend developer with a passion for creating beautiful and responsive user interfaces. With a solid understanding of HTML, CSS, and JavaScript, they specialize in bringing designs to life and delivering seamless user experiences. I'm constantly staying up-to-date with the latest industry trends and best practices to ensure they are always delivering the highest quality work. When not crafting code, you can find me exploring new technologies or experimenting with design. Check my impressive portfolio on Github to see mine work!
+# 💫 Relentless for the next level.
 
+🔭 About me: <br/>
+Fullstack developer and JavaScript enthusiastic.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/junior_gbc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/djuniors) 
